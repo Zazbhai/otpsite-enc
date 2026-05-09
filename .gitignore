@@ -1,0 +1,9 @@
+.gemini
+brain
+node_modules
+src
+build.js
+.env
+app.log
+payment_config.json
+onlinesim
