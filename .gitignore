@@ -1,11 +1,10 @@
-node_modules/
+node_modules
 .env
 src/
-build.js
 brain/
-.gemini/
 app.log
-payment_config.json
+build.js
 onlinesim/
 otpsite.zip
-*.zip
+payment_config.json
+.gemini
